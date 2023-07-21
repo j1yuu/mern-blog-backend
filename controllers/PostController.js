@@ -1,5 +1,5 @@
 import PostModel from "../models/Post.js"
-import UserModel from "../models/user.js"
+import UserModel from "../models/User.js"
 
 export const getLastTags = async (req, res) => {
     try {
